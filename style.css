@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVRNdQq2ZlR48r-hqmh-_HdIysIBoZVrroOqJrvFd1xhURYZ1IIL9Lh3AKxl0hsDkRz-8&usqp=CAU");
+}
+
+h1 {
+    font-size: 100px;
+    color: red;
+    font-family: Arial;
+}
+
+#myCanvas {
+    border-width: 10px;
+    border-style: ridge;
+    background-color: white;
+}
